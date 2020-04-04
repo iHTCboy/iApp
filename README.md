@@ -1,2 +1,2 @@
 # iApp
-my App link and data repository
+My app link and data repository
